@@ -22,7 +22,7 @@ Skills: UNITY/ C#/ PYTHON/ JAVA
 - 😄 Pronouns: He/him 
 - ⚡ Fun fact: I like movement Shooters, RPG but not Strategy games 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KallenHouston&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KallenHouston&show_icons=true&theme=synthwave)  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/KallenKaslana213) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huynh-nguyen-quoc-bao-6b7ab6236) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21436141) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kallen_BP) 
