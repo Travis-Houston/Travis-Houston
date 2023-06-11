@@ -12,7 +12,8 @@ I know the road will be long, but I'm ready to put in the work. With each projec
 
 This is just the beginning, and I'm excited to see how far my imagination and skills can take me on this journey toward sharing meaningful game worlds with the world.
 
-Skills: UNITY/ C#/ PYTHON/ JAVA
+Skills: 
+ ![Basic 2D UNITY2D UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white) ![Basic C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Basic Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Basic Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 - 🔭 I’m currently working on learning Unity. 
 - 🌱 I’m currently learning Unity 2D Engine and Game Development basics. 
