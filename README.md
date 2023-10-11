@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Huynh Nguyen Quoc Bao, but you can call me Travis
-#### ICT Student & Aspiring Game Developer Studying at Swinburne Vietnam With a passion for creating interactive experiences through Games.
+#### IoT Student & Aspiring Game Developer Studying at Swinburne Vietnam With a passion for creating interactive experiences through Games.
 ![ICT Student & Aspiring Game Developer Studying at Swinburne Vietnam With a passion for creating interactive experiences through Games.](https://elearningindustry.com/wp-content/uploads/2021/11/shutterstock_1869188803.jpg)
 
 I'm a young game enthusiast studying ICT in Vietnam. While still learning the fundamentals, I'm passionate about bringing imaginative game worlds to life.
