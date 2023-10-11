@@ -25,7 +25,7 @@ This is just the beginning, and I'm excited to see how far my imagination and sk
 - ⚡ Fun fact: I like movement Shooters, RPG but not Strategy games 
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TravisHouston&show_icons=true&theme=synthwave)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-Houston&show_icons=true&theme=synthwave)  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TravisKaslana213) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/huynh-nguyen-quoc-bao-6b7ab6236) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21436141) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Travis_BP) 
