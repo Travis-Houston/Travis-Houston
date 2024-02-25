@@ -5,8 +5,12 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Travis-Houston&show_icons=true&theme=synthwave)  
 
 ## Skills: 
- ![Basic 2D UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white) !![C#](https://img.shields.io/badge/C%23-black?logo=csharp) ![C++](https://img.shields.io/badge/C%2B%2B-yellow?logo=cplusplus)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Basic Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Basic Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+ ![Basic 2D UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=flat&logo=unity&logoColor=white)
+ ![C#](https://img.shields.io/badge/C%23-black?logo=csharp) 
+ ![C++](https://img.shields.io/badge/C%2B%2B-yellow?logo=cplusplus)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+ ![Basic Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 ## About Me: 
 - 🔭 I’m currently working on AI/IoT labs at Swinburne Vietnam. 
