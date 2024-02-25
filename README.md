@@ -10,7 +10,10 @@
  ![C++](https://img.shields.io/badge/C%2B%2B-yellow?logo=cplusplus)
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+ ![Js](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
  ![Basic Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+ ![OpenCV](https://img.shields.io/badge/OpenCV-red?logo=opencv)
+
 
 ## About Me: 
 - 🔭 I’m currently working on AI/IoT labs at Swinburne Vietnam. 
