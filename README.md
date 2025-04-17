@@ -1,4 +1,4 @@
-<img align="center" src="[https://i.pinimg.com/736x/e7/37/04/e7370483c8991773b3c9c8e5cb658479.jpg](https://pin.it/4BCbglq3P)">
+<img align="center" src="https://i.pinimg.com/736x/e7/37/04/e7370483c8991773b3c9c8e5cb658479.jpg">
 <h1 align="center">Hi 👋, I'm Travis</h1>
 <h3 align="center">Cloud & DevOps Engineer‑in‑Training ☁️🔧 · AWS · Terraform · Docker · CI/CD</h3>
 
