@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Travis</h1>
 <h3 align="center">Cloud & DevOps Engineer‑in‑Training ☁️🔧 · AWS · Terraform · Docker · CI/CD</h3>
 
-- 🔭 I’m currently working on **A blog page of mine and test AWS products**
+- 🔭 I’m currently working on **Learning Go**
 
 - 🌱 I’m currently learning **SAA-C03 Solution Architect**
 
