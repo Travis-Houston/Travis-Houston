@@ -80,3 +80,11 @@ Outside engineering, I lead [ITea Lab](https://www.facebook.com/ITeaLabTeam) and
 
 ⚡ Fun fact: I’m a fan of **Hatsune Miku and Kasane Teto**.
 
+### Random Code Snippet
+
+<p align="center">
+  <img
+    src="./metrics.code.svg"
+    alt="Random code snippet"
+  />
+</p>
