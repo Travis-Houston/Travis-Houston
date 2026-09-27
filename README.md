@@ -21,6 +21,16 @@ I’m a Cloud Native Developer with a Computer Science background in IoT. I work
 
 My current technical interests include AWS, Azure, Terraform, Helm, Docker, Jenkins, GitHub Actions, Linux, Python, Bash, and Go.
 
+<div align="center">
+  <h2>Travis Houston · DevOps / Cloud Native Developer</h2>
+
+  <img
+    src="./metrics.terminal.svg"
+    alt="GitHub metrics"
+    width="100%"
+  />
+</div>
+
 ## What I’m working on
 
 - 🔭 Improving cloud-native release workflows, Kubernetes validation, and CI/CD automation
