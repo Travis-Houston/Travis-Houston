@@ -40,13 +40,13 @@ The pipeline also includes smart change detection, workspace auto-discovery, and
 
 ## Community
 
-Outside engineering, I lead ITea Lab and run workshops on Git/GitHub, cloud infrastructure, and DevOps automation.
+Outside engineering, I lead [ITea Lab](https://www.facebook.com/ITeaLabTeam) and run workshops on Git/GitHub, cloud infrastructure, and DevOps automation.
 
 ## Tech stack
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftazure/microsoftazure-original.svg" alt="Azure" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="45" height="45"/>
@@ -55,7 +55,7 @@ Outside engineering, I lead ITea Lab and run workshops on Git/GitHub, cloud infr
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" alt="Go" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/gnubash/FFFFFF" alt="Bash" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/>
 </p>
 
@@ -70,8 +70,5 @@ Outside engineering, I lead ITea Lab and run workshops on Git/GitHub, cloud infr
   </a>
 </p>
 
-⚡ Fun fact: I’m a fan of Hatsune Miku and Kasane Teto.
+⚡ Fun fact: I’m a fan of **Hatsune Miku and Kasane Teto**.
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=travis-houston&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
