@@ -67,4 +67,4 @@ jobs:
           plugin_code_visibility: public
           plugin_code_languages: >-
             go, python, bash, yaml, dockerfile,
-            javascript, typescript
+            javascript, typescript, terraform, hcl
